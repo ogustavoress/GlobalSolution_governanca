@@ -1,4 +1,4 @@
-# Global Solution de Governança
+# Global Solution de Governança e Melhores Práticas de TI
 ## Diagrama de arquitetura de sistema utilizando ARCHi e o framework TOGAF
 
 - Gustavo Carvalho RM550983
